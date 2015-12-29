@@ -1,0 +1,1 @@
+LogRotate is an application trying to immigrate the linux logrotate service to Windows so windows user can enjoy the perfect way to manage log files
